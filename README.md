@@ -7,7 +7,7 @@ My name is Erick, and I am a Fullstack Software Engineer interested in all thing
 - 👯 I’m looking to collaborate on innovative web and mobile applications, particularly those that leverage JavaScript, React, Next.js, Laravel, or Flutter.
 - 🤔 I’m open to discussing ideas and providing assistance on projects related to healthcare, e-commerce, and SaaS platforms.
 - 💬 Ask me about fullstack development, API integration, or how to make your project scalable.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/erick-mutua-47000929a/) | [Twitter](https://x.com/ErickMutua_dev)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/erick-mutua-47000929a/) | [Twitter](https://x.com/ErickMutua_dev) | [Email](mailto:emutua680@gmail.com)
 - ⚡ Fun fact: I started my coding journey by building simple websites for local businesses, and now I’m helping clients globally!
 
 
