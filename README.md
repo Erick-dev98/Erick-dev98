@@ -3,7 +3,7 @@
 My name is Erick, and I am a Fullstack Software Engineer interested in all things JavaScript, TypeScript, PHP & Flutter!
 
 - 🔭 I’m currently working on [CarePulse](https://carepulse-hms-gilt.vercel.app/), building a healthcare platform designed to streamline patient registration, appointment scheduling, and medical record management.
-- 🌱 I recently built an e-commerce system to improve the customer experience and managing inventories, check it out [here](https://github.com/Erick-dev98/advanced-MERN-ecommerce--frontend)
+- 🌱 I recently built an e-commerce system to improve the customer experience and managing inventories, check it out [here](https://github.com/Erick-dev98/Ecommerce-Platfrom_mern-stack)
 - 👯 I’m looking to collaborate on innovative web and mobile applications, particularly those that leverage JavaScript, React, Next.js, Laravel, or Flutter.
 - 🤔 I’m open to discussing ideas and providing assistance on projects related to healthcare, e-commerce, and SaaS platforms.
 - 💬 Ask me about fullstack development, API integration, or how to make your project scalable.
