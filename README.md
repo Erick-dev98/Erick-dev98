@@ -1,4 +1,4 @@
-## Full-Stack Developer ( JavaScript, TypeScript, React.js, Next.js, Node.js, PHP, Laravel, Livewire & Flutter! )
+## Full-Stack Developer ( HTML/CSS, JavaScript, TypeScript, React.js, Next.js, Node.js, PHP, Laravel, Livewire & Flutter! )
 
 - 🔭 I’m currently working on [CarePulse](https://carepulse-hms-gilt.vercel.app/), building a healthcare platform designed to streamline patient registration, appointment scheduling, and medical record management.
 - 🌱 I recently built an e-commerce system to improve the customer experience and managing inventories, check it out [here](https://github.com/Erick-dev98/Ecommerce-Platfrom_mern-stack)
